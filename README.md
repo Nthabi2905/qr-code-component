@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -18,11 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](/QR%20Code%20Screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here][https://github.com/Nthabi2905/qr-code-component]
-
 
 ## My process
 
